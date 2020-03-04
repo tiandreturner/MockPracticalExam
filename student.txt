@@ -1,0 +1,4 @@
+U, Lebron James, OH,10,20000
+G, Michael Jordan, NC,15, UNC
+U, Ja Morant, SC,5,5000
+U,Tiandre Turner,IL,0,0

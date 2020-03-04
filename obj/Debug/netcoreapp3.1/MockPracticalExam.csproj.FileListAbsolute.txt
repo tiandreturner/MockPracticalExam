@@ -1,0 +1,11 @@
+C:\Users\tjtics\Documents\LocalVSC\PF2\MockPracticalExam\bin\Debug\netcoreapp3.1\MockPracticalExam.exe
+C:\Users\tjtics\Documents\LocalVSC\PF2\MockPracticalExam\bin\Debug\netcoreapp3.1\MockPracticalExam.deps.json
+C:\Users\tjtics\Documents\LocalVSC\PF2\MockPracticalExam\bin\Debug\netcoreapp3.1\MockPracticalExam.runtimeconfig.json
+C:\Users\tjtics\Documents\LocalVSC\PF2\MockPracticalExam\bin\Debug\netcoreapp3.1\MockPracticalExam.runtimeconfig.dev.json
+C:\Users\tjtics\Documents\LocalVSC\PF2\MockPracticalExam\bin\Debug\netcoreapp3.1\MockPracticalExam.dll
+C:\Users\tjtics\Documents\LocalVSC\PF2\MockPracticalExam\bin\Debug\netcoreapp3.1\MockPracticalExam.pdb
+C:\Users\tjtics\Documents\LocalVSC\PF2\MockPracticalExam\obj\Debug\netcoreapp3.1\MockPracticalExam.csprojAssemblyReference.cache
+C:\Users\tjtics\Documents\LocalVSC\PF2\MockPracticalExam\obj\Debug\netcoreapp3.1\MockPracticalExam.AssemblyInfoInputs.cache
+C:\Users\tjtics\Documents\LocalVSC\PF2\MockPracticalExam\obj\Debug\netcoreapp3.1\MockPracticalExam.AssemblyInfo.cs
+C:\Users\tjtics\Documents\LocalVSC\PF2\MockPracticalExam\obj\Debug\netcoreapp3.1\MockPracticalExam.dll
+C:\Users\tjtics\Documents\LocalVSC\PF2\MockPracticalExam\obj\Debug\netcoreapp3.1\MockPracticalExam.pdb
